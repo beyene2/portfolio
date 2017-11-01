@@ -19,12 +19,11 @@ body{
     border-radius:50%;
     width:100px;
 }
-#main_img{
-    margin:0;
-}
+
 #me{
     border-radius:3%;
 }
-#featured{
+
+.featured{
     border-radius:2%;
 }
