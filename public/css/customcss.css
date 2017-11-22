@@ -27,7 +27,7 @@ body{
 }
 .img-featured:hover {
    -webkit-transform: scaleY(-1);
-    transform: scaleY(2);
+    transform: scaleY(1);
     border-radius:3%;
 }
 
